@@ -27,4 +27,4 @@ So, here is the protocol :
 4. Paste to replace the whole content of the file you opened earlier
 5. Save (Ctrl+S)
 6. Reboot your Raspberry Pi 400 using the command `sudo reboot` in a new terminal
-7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch`. The results should look like ![this](https://imgur.com/a/W7JCJR0).
+7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch`.
