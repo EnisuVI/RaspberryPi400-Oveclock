@@ -1,5 +1,5 @@
 # RaspberryPi400-Oveclock
-## Tested configuration to overclock your Raspberry Pi 400.
+### Tested configuration to overclock your Raspberry Pi 400.
 
 A configuration done and tested by EnisuVI. 
 
@@ -25,6 +25,6 @@ So, here is the protocol :
 2. Type the command `sudo nano /boot//config.txt` *You can use another editor if you want, like Gedit or Geany*
 3. Copy the text in `config.txt`
 4. Paste to replace the whole content of the file you opened earlier
-5. Save (Ctrl+s)
+5. Save (Ctrl+S)
 6. Reboot your Raspberry Pi 400 using the command `sudo reboot` in a new terminal
-7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch`.
+7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch`. The results should look like ![this](https://imgur.com/a/W7JCJR0).
