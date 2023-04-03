@@ -1,4 +1,4 @@
-# Raspberry Pi400 - Oveclock
+# Raspberry Pi 400 - Oveclocking Configuration
 ### Tested configuration to overclock your Raspberry Pi 400.
 
 A configuration done and tested by EnisuVI. 
