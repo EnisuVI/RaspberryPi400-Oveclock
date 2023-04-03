@@ -31,4 +31,4 @@ So, here is the protocol :
 
 *This configuration has been stress tested with [s-tui](https://github.com/amanusk/s-tui). Follow the link to install it on your machine.* 
 
-[^1]Only for the original Raspberry OS (Raspbian).
+[^1]:Only for the original Raspberry OS (Raspbian).
