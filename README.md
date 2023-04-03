@@ -1,4 +1,4 @@
-# Raspberry Pi 400 - Oveclocking Configuration
+# Raspberry Pi 400 - Oveclocking Configuration[^1]
 ### Tested configuration to overclock your Raspberry Pi 400.
 
 A configuration done and tested by EnisuVI. 
@@ -14,7 +14,7 @@ The goal here is to overclock your RPI400 to 2.2GHz ! To do so, you will simply 
 
 ## How do I do it ?
 
-Firstly, I am not responsible IN ANY WAY if you break your Raspberry. It is your own decision to overclock it, and you do it at your own risks. You may have found some articles on the web, and there is always a disclaimer about the overclocking.
+Firstly, I am not responsible **IN ANY WAY** if you break your Raspberry. It is your own decision to overclock it, and you do it at your own risks. You may have found some articles on the web, and there is always a disclaimer about the overclocking.
 The goal of this Repository is to share to you my configuration, so that you don't have to search for every parameter.
 
 If this doesn't work well with your machine, contact me, and I will try to help you.
@@ -30,3 +30,5 @@ So, here is the protocol :
 7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch` in your terminal.
 
 *This configuration has been stress tested with [s-tui](https://github.com/amanusk/s-tui). Follow the link to install it on your machine.* 
+
+[^1]Only for the original Raspberry OS (Raspbian).
