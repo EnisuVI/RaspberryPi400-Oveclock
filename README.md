@@ -1,4 +1,4 @@
-# RaspberryPi400-Oveclock
+# Raspberry Pi400 - Oveclock
 ### Tested configuration to overclock your Raspberry Pi 400.
 
 A configuration done and tested by EnisuVI. 
@@ -22,9 +22,11 @@ If this doesn't work well with your machine, contact me, and I will try to help 
 So, here is the protocol :
 
 1. Launch a Terminal on your RPI400 (Ctrl+Alt+T)
-2. Type the command `sudo nano /boot//config.txt` *You can use another editor if you want, like Gedit or Geany*
+2. Type the command `sudo nano /boot//config.txt` *You can use another editor if you want, like Gedit or Geany.*
 3. Copy the text in `config.txt`
-4. Paste to replace the whole content of the file you opened earlier
+4. Paste to replace the whole content of the file you opened earlier.
 5. Save (Ctrl+S)
-6. Reboot your Raspberry Pi 400 using the command `sudo reboot` in a new terminal
-7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch`.
+6. Reboot your Raspberry Pi 400 using the command `sudo reboot` in a new terminal.
+7. Enjoy your new settings ! If you want to check if you configuration is good, type `sudo apt install neofetch` and `neofetch` in your terminal.
+
+*This configuration has been stress tested with [s-tui](https://github.com/amanusk/s-tui). Follow the link to install it on your machine.* 
